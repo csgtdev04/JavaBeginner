@@ -21,9 +21,14 @@ public class Compare {
         // String is a special reference type
 
         String a = "Sai";
-        String b = "Sai1";
+        String b = "Sai";
         System.out.println(a.equals(b)); // true - .equals compares the content in the string
         System.out.println(a == b); // compares the OBJECTS themselves
+
+        System.out.println("sai".toUpperCase() == "SAI");
+        System.out.println("sai".toUpperCase().equals("SAI"));
+
+        // SAI
 
         // HW: Finish RPS project - Last class
         // Finish talking about comparisons
