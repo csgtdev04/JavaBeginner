@@ -14,7 +14,7 @@ public class Example {
 //        drawSquaresSidebySide(drawingPen, numSquares);
 //        drawSquaresSidebySide2(drawingPen, numSquares);
 //        makeSnowman(drawingPen);
-        graphicsHomework(drawingPen);
+        // graphicsHomework(drawingPen);
 
     }
 
